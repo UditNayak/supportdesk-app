@@ -1,2 +1,14 @@
-/docs
+# Local environment
+venv/
+__pycache__/
+*.pyc
+
+# local references
+/references
 CLAUDE.md
+
+# Runtime database
+supportdesk.db
+
+# Review report
+report/
